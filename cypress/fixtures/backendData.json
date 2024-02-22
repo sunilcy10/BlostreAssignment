@@ -1,0 +1,13 @@
+{
+    "PostRequestBody": {
+        "name": "morpheus",
+        "job": "leader"
+    },
+    "PatchRequestHeader": {
+        "Authorization": "Bearer 4682c7888368922069a06b7001ebf5a7e7d3c8ab7269669606c6491b6c0e87d9"
+    },
+    "PutRequestBody": {
+        "name": "morpheus",
+        "job": "zion resident"
+    }
+}
